@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/incometrader/find-missing-andela/issues"
   },
-  "homepage": "https://github.com/incometrader/find-missing-andela#readme"
+  "homepage": "https://github.com/incometrader/find-missing-andela#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
 }
