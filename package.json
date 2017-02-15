@@ -1,0 +1,24 @@
+{
+  "name": "find_missing",
+  "version": "1.0.0",
+  "description": "A function that compares two arrays and returns a missing number",
+  "main": "src/find-missing.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incometrader/find-missing-andela.git"
+  },
+  "keywords": [
+    "arrays",
+    "missing",
+    "number"
+  ],
+  "author": "Ignatius Ukwuoma<ignatiusukwuoma@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/incometrader/find-missing-andela/issues"
+  },
+  "homepage": "https://github.com/incometrader/find-missing-andela#readme"
+}
